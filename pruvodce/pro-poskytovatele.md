@@ -1,0 +1,2 @@
+
+# Průvodce pro poskytovatele dat
