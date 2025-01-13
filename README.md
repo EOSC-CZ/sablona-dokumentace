@@ -1,5 +1,5 @@
 
-# Šablona dokumentace pro repozitáře EOSC / NRP
+# Šablona dokumentace pro repozitáře EOSC-CZ / NRP
 
 
 
