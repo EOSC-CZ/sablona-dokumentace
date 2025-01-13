@@ -1,0 +1,2 @@
+
+# Zpřístupňování obsahu
