@@ -9,7 +9,7 @@
    - *Rozšířená kurátorská činnost - např. převod do nových formátů, rozšíření dokumentace.*
    - *Kurátorství na úrovni dat - jako v případě výše, s dodatečnou úpravou uložených dat s ohledem na jejich přesnost.*
 - *Popište typy přijímaných a uchovávaných digitálních objektů a formáty datových souborů*
-- *Popište jaké licence k přístupu k datům repozitář používá, jaké jsou podmínky zpřístupnění a jaké kodexy chování je nutné dodržovat*
+
 
 Další dokumenty: 
 
