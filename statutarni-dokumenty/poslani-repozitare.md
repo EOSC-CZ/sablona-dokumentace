@@ -1,7 +1,7 @@
 
 # Poslání repozitáře
 
-- *Uveďte základní kontext a statut repozitáře, jeho účel a způsob zřízení apod.*
+- *Uveďte základní cíle, kontext a statut repozitáře, jeho účel a způsob zřízení apod.*
 - *Uveďte typ repozitáře. Vyberte všechny relevantní typy z:*
   -  *Doménové nebo předmětové úložiště*
   -  *Institucionální repozitář*
@@ -10,7 +10,7 @@
   -  *Knihovna/muzeum/archiv*
   -  *Repozitář výzkumných projektů*
   -  *Jiné (popište)*
-- *Specifikujte, jaké je poslání a zodpovědnost organizace za zpřístupňování a uchovávání obsahu repozitáře a jakou má explicitní oporu v organizačních dokumentech*
+- *Specifikujte, jaké je poslání a zodpovědnost organizace za zpřístupňování a uchovávání obsahu repozitáře a jakou má explicitní oporu v organizačních dokumentech (způsob schválení)*
 - *Popište význam repozitáře z hlediska jeho obsahu, role v projektech, citacích*
 - *Popište působnost repozitáře na úrovni národní, regionální, celosvětové, zapojení do mezinárodních organizací*
  
