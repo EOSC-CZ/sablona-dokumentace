@@ -7,4 +7,4 @@
   
   *Příklady:*
   
-  *(popis základních určených komunit NRP*
+  *(popis základních určených komunit NRP)*
