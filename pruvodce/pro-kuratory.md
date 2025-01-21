@@ -5,5 +5,6 @@ Tento průvodce popisuje praktické provádění kurátorských činností. Obec
 
 - *Popište postup pro přidělení kurátorské role v repozitáři.*
 - *Popište specificky kurátorské procesy.*
-- *Popište postup schválení záznamu ke zpřístupnění.*
 - *Popište typické situace a způsob komunikace s poskytovateli datových objektů.*
+- *Popište postup schválení záznamu ke zpřístupnění.*
+
