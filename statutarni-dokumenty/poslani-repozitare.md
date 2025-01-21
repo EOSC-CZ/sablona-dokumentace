@@ -14,6 +14,6 @@
 - *Popište význam repozitáře z hlediska jeho obsahu, role v projektech, citacích*
 - *Popište působnost repozitáře na úrovni národní, regionální, celosvětové, zapojení do mezinárodních organizací*
  
-Další dokumenty: 
+Podrobnější informace k tématu najdete v dalších souvisejících dokumentech: 
 
 [Cílové komunity](../pruvodce/komunity/repozitare.md), [Datová politika](datova-politika.md) a [Správa repozitáře](sprava-repozitare.md)
