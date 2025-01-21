@@ -11,3 +11,5 @@ Postupy ukládání dat
 Procesy sklízení dat (harvest)
 - *Popište náležitosti zdrojů pro hromadné sklízení dat od poskytovatelů.*
 - *Popište periodicitu, způsob sklízení a zpřístupnění v repozitáři.*
+
+Podrobnější informace k validaci dat a metadat najdete v souvisejícím dokumentu [Srozumitelnost obsahu](srozumitelnost-obsahu.md)
