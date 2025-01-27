@@ -3,9 +3,10 @@
 
 # Preservation strategic plan
 
-- *Uvedte, jaká jsou zavedena opatření pro zajištění zpřístupnění a dostupnosti fondu, jak současná, tak budoucí*
-- *Uveďte střednědobé (na 3-5 let) a dlouhodobé plány (více než 5 let) které jsou v platnosti pro uchovávání obsahu*
-- *Popište reakce na rychlé změny okolností (krizový plán), co se stane při nenadálém nebo plánovaném ukončení financování a uveďte možností pro přemístění nebo převedení činnosti na jiný subjekt nebo vrácení datových fondů jejich původcům (plán zajištění kontinuity)* 
+- *Indicate what measures are in place to ensure accessibility and availability of the fund, both current and future.*
+- *Indicate the medium-term (3-5 years) and long-term plans (more than 5 years) that are in place for the preservation of content.*
+- *Describe responses to rapid changes in circumstances (crisis plan), what will happen in the event of sudden or planned termination of funding, and provide options for relocating or transferring the operation to another entity or returning data holdings to their original depositors (continuity plan).* 
+
 
 # Preservation implementation plan
 
