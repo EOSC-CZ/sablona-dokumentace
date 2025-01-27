@@ -10,7 +10,7 @@
    - *Kurátorství na úrovni dat - jako v případě výše, s dodatečnou úpravou uložených dat s ohledem na jejich přesnost.*
 - *Popište typy přijímaných a uchovávaných digitálních objektů a formáty datových souborů*
 
+---
+Další informace najdete v souvisejících dokumentech: 
 
-Další dokumenty: 
-
-[Dlouhodobé uchovávání](dlouhodobe-uchovavani.md), [Podmínky užití](../organizacni-dokumenty/podminky-uziti.md)
+[Zpřístupňování obsahu](zpristupnovani-obsahu.md) a [Dlouhodobé uchovávání](dlouhodobe-uchovavani.md)
