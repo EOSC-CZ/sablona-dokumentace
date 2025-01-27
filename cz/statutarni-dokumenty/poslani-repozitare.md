@@ -16,4 +16,4 @@
  
 Podrobnější informace k tématu najdete v dalších souvisejících dokumentech: 
 
-[Cílové komunity](../pruvodce/komunity-repozitare.md), [Datová politika](datova-politika.md) a [Správa repozitáře](sprava-repozitare.md)
+[Komunity repozitáře](../pruvodce/komunity-repozitare.md), [Datová politika](datova-politika.md) a [Správa repozitáře](sprava-repozitare.md)
