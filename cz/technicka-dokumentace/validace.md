@@ -1,1 +1,0 @@
-# Validace dat a metadat
