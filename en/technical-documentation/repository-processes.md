@@ -1,15 +1,17 @@
 
-# Procesy repozitáře
+# Repository processes
 
-Postupy ukládání dat
-- *Popište postup, jakým repozitář ukládá data a metadata od jejich vstupního bodu přes proces příjmu po zpřístupnění, u dlouhodobých repozitářů také archivního uložení.*
-- *Popište způsob řízení dotčených procesů.*
-- *Popište zabezpečení proti neoprávněnému přístupu, jeho požadavky a úrovně.*
-- *Popište strategii záloh, kontroly jejich konzistence a jak je zajištěno obnovení.*
-- *Uveďte, jak je monitorováno zhoršení stavu úložných médií.*
+Data storage procedures
+- *Describe the procedures how the repository stores data and metadata from the point of deposit, through the ingest process, to the point of access and, for long-term repositories, archival storage.*
+- *Describe how the processes involved are managed.*
+- *Describe the security measures against unauthorised access, their requirements and levels.*
+- *Describe the backup strategy, consistency checks and how recovery is assured.*
+- *Indicate how storage media degradation is monitored.*
+- *Describe the migration processes and how they ensure protection against technology and format obsolescence, and provide the rules under which they are triggered.*
   
-Procesy sklízení dat (harvest)
-- *Popište náležitosti zdrojů pro hromadné sklízení dat od poskytovatelů.*
-- *Popište periodicitu, způsob sklízení a zpřístupnění v repozitáři.*
+Data harvesting processes
+- *Describe the requirements for bulk data harvesting sources from depositors.*
+- *Describe the frequency, method of harvesting and making data accessible in the repository.*
 
-Podrobnější informace k validaci dat a metadat najdete v souvisejícím dokumentu [Srozumitelnost obsahu](srozumitelnost-obsahu.md)
+---
+For more detailed information on data and metadata validation, see the related document [Information management](information-management.md)
