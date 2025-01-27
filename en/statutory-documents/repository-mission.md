@@ -1,19 +1,19 @@
 
-# Poslání repozitáře
+# Repository mission statement
 
-- *Uveďte základní cíle, kontext a statut repozitáře, jeho účel a způsob zřízení apod.*
-- *Uveďte typ repozitáře. Vyberte všechny relevantní typy z:*
-  -  *Doménové nebo předmětové úložiště*
-  -  *Institucionální repozitář*
-  -  *Národní systém repozitářů, včetně vládních*
-  -  *repozitář publikací*
-  -  *Knihovna/muzeum/archiv*
-  -  *Repozitář výzkumných projektů*
-  -  *Jiné (popište)*
-- *Specifikujte prohlášení, jaké je poslání a zodpovědnost organizace za zpřístupňování a uchovávání obsahu repozitáře a jakou má explicitní oporu v organizačních dokumentech (způsob schválení)*
-- *Popište význam repozitáře z hlediska jeho obsahu, role v projektech, citacích*
-- *Popište působnost repozitáře na úrovni národní, regionální, celosvětové, zapojení do mezinárodních organizací*
- 
-Podrobnější informace k tématu najdete v dalších souvisejících dokumentech: 
+- *State the basic objectives, context and status of the repository, its purpose and method of establishment.*
+- *Indicate the type of repository. Select all relevant types from:*
+  - *Domain or subject repository*
+  - *Institutional repository*
+  - *National repository system, including government repositories*
+  - *Publications repository*
+  - *Library/museum/archive*
+  - *Research project repository*
+  - *Other (please describe)*
+- *Specify a statement of the organization's mission and responsibility for making repository content available and preserved, and what explicit support it has in organizational documents (method of approval).*
+- *Describe the importance of the repository in terms of its content, role in projects, citations.*
+- *Describe the scope of the repository at national, regional, global level, involvement in international organisations.*
 
-[Cílové komunity](../pruvodce/komunity/repozitare.md), [Datová politika](datova-politika.md) a [Správa repozitáře](sprava-repozitare.md)
+For more detailed information on this topic, please refer to other related documents:
+
+[Repository communities](../guides/repository-communities.md), [Collection policy](collection-policy.md) and [Repository management](repository-management.md)
