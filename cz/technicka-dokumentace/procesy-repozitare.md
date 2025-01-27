@@ -7,9 +7,11 @@ Postupy ukládání dat
 - *Popište zabezpečení proti neoprávněnému přístupu, jeho požadavky a úrovně.*
 - *Popište strategii záloh, kontroly jejich konzistence a jak je zajištěno obnovení.*
 - *Uveďte, jak je monitorováno zhoršení stavu úložných médií.*
+- *Popište procesy migrace a jak zajišťují ochranu před zastaráváním technologií a formátů, uveďte pravidla, na jejichž základě jsou spouštěny.*
   
 Procesy sklízení dat (harvest)
 - *Popište náležitosti zdrojů pro hromadné sklízení dat od poskytovatelů.*
 - *Popište periodicitu, způsob sklízení a zpřístupnění v repozitáři.*
 
+---
 Podrobnější informace k validaci dat a metadat najdete v souvisejícím dokumentu [Srozumitelnost obsahu](srozumitelnost-obsahu.md)
