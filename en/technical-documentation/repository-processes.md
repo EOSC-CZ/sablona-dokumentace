@@ -14,4 +14,4 @@ Data harvesting processes
 - *Describe the frequency, method of harvesting and making data accessible in the repository.*
 
 ---
-For more detailed information on data and metadata validation, see the related document [Information management](information-management.md)
+For more detailed information on data and metadata validation, see the related document [Content understandability](content-understandability.md)
