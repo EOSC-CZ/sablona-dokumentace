@@ -17,5 +17,8 @@
 - *Describe the process how is the information understandability for repository communities continuously evaluated.*
 - *Describe the process how the repository evaluates risk of data formats, storage media and device obsolescence.*
 
-For more information
+---
+See related documents for more information: 
+
+[Repository processes](repository-processes.md)
 
