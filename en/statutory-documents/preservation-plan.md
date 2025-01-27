@@ -20,5 +20,5 @@
 ---
 See related documents for more information: 
 
-[Repository processes](repository-processes.md)
+[Repository processes](../technical-documentation/repository-processes.md)
 
