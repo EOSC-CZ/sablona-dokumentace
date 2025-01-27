@@ -1,0 +1,2 @@
+
+# Průvodce pro komunity repozitáře

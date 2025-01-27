@@ -1,0 +1,2 @@
+
+# Ověření totožnosti poskytovatelů
