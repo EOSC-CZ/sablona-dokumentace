@@ -1,17 +1,17 @@
 
-# Podmínky užití
+# Terms of use
 
-- *Uveďte všeobecné právní ujednání týkající se používání webové aplikace repozitáře, včetně povinností a omezení uživatelů.*
+- *Specify the general legal agreement regarding the use of the repository web application, including user responsibilities and limitations.*
 
-Podrobné informace o užití a licencích obsahu repozitáře:
+Detailed information on the use and licensing of the repository content:
 
-[Podmínky zpřístupňování obsahu](../statutarni-dokumenty/zpristupnovani-obsahu.md)
+[Providing access](../statutory-documents/providing-access.md)
 
-# Ochrana osobních údajů
+# Privacy Policy
 
-- *Uveďte zásady ochrany osobních údajů popisující, jak jsou shromažďovány, používány a chráněny údaje uživatelů.*
-- *Uveďte správce resp. smluvního zpracovatele osobních údajů.*
+- *Specify a privacy policy describing how user data is collected, used, and protected.*
+- *Indicate the controller or contractual processor of the personal data.*
 
 ---
 
-Kam se obracet s dotazy nebo žádostmi najdete na stránce [Kontakty](kontakty.md)
+Where to go with questions or requests can be found on the [Contacts](contacts.md) page.
