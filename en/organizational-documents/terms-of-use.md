@@ -5,7 +5,7 @@
 
 Detailed information on the use and licensing of the repository content:
 
-[Providing access](../statutory-documents/providing-access.md)
+[Providing access to content](../statutory-documents/providing-access.md)
 
 # Privacy Policy
 
