@@ -1,6 +1,10 @@
 
 # Expert guidance
 
-- *Uveďte rozsah a hloubku odborných znalostí organizace i jejích zaměstnanců, včetně relevantních informací o příslušnosti např. k vnitrostátním nebo mezinárodním orgánům.*
-- *Popište, jaké jsou mechanismy k zajištění průběžného odborného poradenství (interní specialisté nebo externí rada, včetně technologického a vědeckého poradenství, jakým způsobem se s nimi komunikuje).*
-- *Uveďte formy zpětné vazby s cílovými komunitami.*
+- *Indicate the range and depth of expertise of the organisation and its staff, including relevant information on affiliation with, for example, national or international bodies.*
+- *Describe what mechanisms are in place to provide ongoing expert advice (internal specialists or external advice, including technological and scientific advice, and forms of communication with them).*
+- *Indicate the forms of feedback with the repository communities.*
+
+---
+
+Other related documents: [Repository Communities](../guides/repository-communities.md) 
