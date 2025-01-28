@@ -1,13 +1,17 @@
 
 # Podmínky užití
 
-- *Uveďte právní ujednání týkající se používání webové aplikace repozitáře, včetně povinností a omezení uživatelů.*
+- *Uveďte všeobecné právní ujednání týkající se používání webové aplikace repozitáře, včetně povinností a omezení uživatelů.*
 
-Další dokumenty:
+Podrobné informace o užití a licencích obsahu repozitáře:
 
 [Podmínky zpřístupňování obsahu](../statutarni-dokumenty/zpristupnovani-obsahu.md)
 
 # Ochrana osobních údajů
 
-- *Zásady ochrany osobních údajů podrobně popisují, jak jsou shromažďovány, používány a chráněny údaje uživatelů.*
-- *Uveďte správce resp. zpracovatele osobních údajů.*
+- *Uveďte zásady ochrany osobních údajů popisující, jak jsou shromažďovány, používány a chráněny údaje uživatelů.*
+- *Uveďte správce resp. smluvního zpracovatele osobních údajů.*
+
+---
+
+Kam se obracet s dotazy nebo žádostmi najdete na stránce [Kontakty](kontakty.md)
