@@ -8,3 +8,6 @@ Tento průvodce popisuje praktické provádění kurátorských činností. Obec
 - *Popište typické situace a způsob komunikace s poskytovateli datových objektů.*
 - *Popište postup schválení záznamu ke zpřístupnění.*
 
+---
+
+Další informace najdete také v dokumentu [Integrita a autenticita obsahu](../technicka-domumentace/integrita-autenticita.md)
