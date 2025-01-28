@@ -1,10 +1,14 @@
 
 # Repository communities
 
-- *Popište cílové komunity, pro které je repozitář určen. Uveďte, jak je každá skupina velká, odhad jejího růstu, jak je různorodá, jakou má znalostní základnu.*
-- *Uveďte jaké potřeby komunit repozitář naplňuje.*
-- *Uveďte do jaké míry je nutné k využití a interpretaci materiálu mít expertní znalosti, jaké předpokládá specializace.*
+- *Describe the target communities for which the repository is designated. Indicate how large each group is, an estimate of its growth, how diverse it is, what is its knowledge base.*
+- *Indicate what community needs the repository is addressing.*
+- *Indicate the extent to which expert knowledge is required to use and interpret the material, what specialisation is expected.*
   
-  *Příklady:*
+  *Examples:*
   
-  *(popis základních určených komunit NRP)*
+  *(description of the basic NRP designated communities)*
+
+---
+
+For more information on what expertise and support the repository provides, see [Expert guidance](../organizational-documents/expert-guidance.md)
