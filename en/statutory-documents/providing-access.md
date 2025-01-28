@@ -1,5 +1,5 @@
 
-# Providing access
+# Providing access to content
 
-- *Popište jaké licence k přístupu k datům repozitář používá, jaké jsou podmínky zpřístupnění a jaké kodexy chování je nutné dodržovat*
-- *Uveďte, jak repozitář sleduje dodržování podmínek zpřístupnění, citací a správné užití licencí*
+- *Describe what licenses for the use of data the repository provides, what are the terms of access and what codes of conduct must be followed.*
+- *Indicate how the repository monitors compliance with the terms of access, citations, and appropriate use of licenses.*
