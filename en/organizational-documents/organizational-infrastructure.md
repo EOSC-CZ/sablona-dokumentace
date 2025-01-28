@@ -1,16 +1,16 @@
 
 # Organizational structure
 
-- *Popište jak má repozitář zajištěny odpovídající finanční prostředky a dostatečný počet kvalifikovaných pracovníků, aby mohl účinně plnit své poslání.*
-- *Popište organizační strukturu, jasný systém řízení a lidské zdroje zajišťující funkce repozitáře*
-- *Uveďte počet interních zaměstnanců a jejich role*
-- *Uveďte úplný popis úkolů prováděných úložištěm a kvalifikace potřebné k jejich provádění (nepovinné)*
-- *Uveďte seznam externích partnerů (outsourcované služby) a jejich organizační nebo smluvní vztahy k repozitáři, požadované certifikace apod.*
+- *Describe how the repository is adequately financially resourced and staffed to effectively carry out its mission.*
+- *Describe the organisational structure, clear management system and human resources to support the functions of the repository.*
+- *Indicate the number of internal staff and their roles.*
+- *Provide a full description of the tasks performed by the repository and the qualifications required to perform them (optional).*
+- *Provide a list of external partners (outsourced services) and their organizational or contractual relationship to the repository, required certifications, etc.*
 
 
 # Professional development
 
-- *Popište způsoby rozvíjení kvalifikace odborníků zajišťujících funkce repozitáře*
-- *Popište jak je kvalifikace v organizaci provozovatele řízena a evidována*
-- *Uveďte jak jsou zajištěny prostředky na školení a profesní rozvoj*
+- *Describe ways to develop the professional skills of specialists responsible for repository functions.*
+- *Describe how qualifications are managed and recorded in the organisation.*
+- *Indicate how resources for training and professional development are provided.*
 
