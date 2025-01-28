@@ -8,3 +8,7 @@
   *Příklady:*
   
   *(popis základních určených komunit NRP)*
+
+---
+
+Další informace o tom, jaké odborné znalosti a podporu repozitář poskytuje najdete v dokumentu [Zajištění odbornosti](../organizacni-dokumenty/zajisteni-odbornosti.md)
