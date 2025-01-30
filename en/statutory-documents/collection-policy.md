@@ -1,6 +1,7 @@
 # Collection policy
 
 - *Describe the methods of content acquisition, from which sources and by what means the data enters the repository.*
+- *Describe the collection development plan, criteria for selection and inclusion in the repository.*
 - *Describe the legal conditions for content acquisition (contractual, statutory, open data, ...).*
 - *Indicate the amount of data and its expected growth (increments), total volume and number of files or individual digital objects.*
 - *Indicate the level of curation of the content. Select all relevant types from:*
@@ -11,6 +12,4 @@
 - *Describe the types of digital objects received and stored and the formats of the data files.*
 
 ---
-See related documents for more information: 
-
-[Providing access](providing-access.md) and [Preservation plan](preservation-plan.md)
+For more information see related documents [Providing access](providing-access.md) and [Preservation plan](preservation-plan.md), related content entry requirements also in [Content understandability](../technical-documentation/content-understandability.md).
