@@ -9,3 +9,6 @@
 - *Describe automated assessment of metadata adherence to relevant schema, validation methods and tools used.*
   
 # Data reuse
+- *Describe how does the repository ensure understandability of the data.*
+- *Indicate which metadata are required by the repository when the data are provided (e.g., Dublin Core or content-oriented metadata).*
+- *Indicate what are the measures taken to account for the possible evolution of formats and plans related to future migrations.*
