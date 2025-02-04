@@ -12,7 +12,7 @@ This document describes requisities of information management, for general guide
 
 # Data identification
 
-- *Indicate how persistent identifiers are assigned and used.*
-- *Describe how repository maintains a persistent way of proper citation (persistent URLs).*
-
+- *Describe how persistent identifiers are assigned and used, what are the conventions for unique PID generation. Indicate how is the identifier system adequate for current and future repository needs (for foreseeable number of objects etc.)*
+- *Indicate how repository provides a complete list of assigned identifiers. (optional)*
+- *Describe how repository maintains a persistent way of proper citation (persistent URLs), address linking or resolving services in use etc.*
 
