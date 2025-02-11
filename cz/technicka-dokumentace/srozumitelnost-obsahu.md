@@ -14,3 +14,4 @@
 - *Uveďte, jaká opatření jsou přijata s ohledem na možný vývoj formátů a jaké jsou plány související s budoucí migrací.*
 - *Popište referenční informace o digitálních objektech a zda jsou uváděny citace na související díla nebo odkazy na citační indexy.*
 - *Uveďte, jak úložiště udržuje vztah k reprezentačním informacím (registr formátů, význam polí v datové sadě atd.).*
+- *Odkažte na zavedené postupy FAIR-ifikace dat.*
