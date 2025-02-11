@@ -7,8 +7,8 @@ Tento dokument popisuje náležitosti správy informací, obecný návod, jak vy
 
 - *Popište obecné způsoby, jak objevovat data v repozitáři (např. dostupná rozhraní pro vyhledávání a procházení, katalog metadat s možností vyhledávání podle mezinárodně dohodnutých standardů).*
 - *Uveďte, zda je repozitář zařazen do jednoho nebo více oborových nebo obecných registrů zdrojů.*
-- *Popište zavedené postupy FAIR-ifikace dat.*
 - *Popište používané strojové sklízení metadat.*
+- *Odkažte na zavedené postupy FAIR-ifikace dat.*
 
 # Identifikace dat
 
