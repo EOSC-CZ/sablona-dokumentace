@@ -7,8 +7,8 @@ This document describes requisities of information management, for general guide
 
 - *Describe general ways to discover the data in the repository (e. g. search and browse interfaces available, searchable metadata catalogue to internationally agreed standards).*
 - *Indicate wheather is the repository included in one or more disciplinary or generic registries of resources.*
-- *Describe data FAIR-ification procedures in place.*
 - *Describe machine harvesting of the metadata in place.*
+- *Refer to data FAIR-ification procedures in place.*
 
 # Data identification
 
