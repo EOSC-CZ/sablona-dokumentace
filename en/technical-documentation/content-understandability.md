@@ -14,3 +14,4 @@
 - *Indicate what are the measures taken to account for the possible evolution of formats and plans related to future migrations.*
 - *Describe reference information of digital objects and whether citations to related works or links to citation indices are provided.*
 - *Indicate how repository maintains relation to representation information (formats registry, meaning of fields in the dataset etc.).*
+- *Refer to data FAIR-ification procedures in place.*
