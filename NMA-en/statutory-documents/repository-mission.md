@@ -1,4 +1,4 @@
-# National Metadata Repository
+# National Metadata Directory
 
 ## Repository mission statement
 
@@ -15,7 +15,7 @@ The National Metadata Directory concentrates metadata on datasets mainly from th
 ---
 National Metadata Directory is operated on the [e-infra infrastructure](https://www.e-infra.cz/en) by [CESNET z.s.p.o.](https://www.cesnet.cz/en) under the scope of [EOSC-CZ project](https://www.eosc.cz/en/projects/european-open-science-cloud-czech-republic-ips-eosc-cz). CESNET association delivers advanced ICT services for science, research, and education. It's members include public universities and the Academy of Sciences of the Czech Republic. As pioneers of the first academic networks CESNET ensures secure access and provides robust environments for data storage, high-performance computing, and team collaboration. 
 
-**Type of repository: National repository system.**
+**Type of repository: National repository system directory.**
 
 **Scope of the repository: Czech Republic national and international with czech science participation**
 
