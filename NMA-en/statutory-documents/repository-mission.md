@@ -10,10 +10,10 @@ What are datasets?
 
 Scientific knowledge and published scientific texts are generally based on measured data or statistical data on which they base their claims. Datasets are those data sets that complement scientific publications and are used to prove or verify their results. Sometimes they are also data from scientific instruments and equipment or organized collections of digital objects that are provided to other research organizations for subsequent analysis and research or for applications in the public sphere. 
 
-The National Metadata Directory concentrates metadata on datasets mainly from the National Repository Platform repositories and selected international repositories with Czech participation. However, it does not contain records of scientific articles and scientific texts, which can be found in the document part of the National Repository. 
+The National Metadata Directory concentrates metadata on datasets mainly from the [National Repository Platform](https://docs.nrp.eosc.cz/en/docs/overview) repositories and selected international repositories with Czech participation. However, it does not contain records of scientific articles and scientific texts, which can be found in the document part of the National Repository. 
 
 ---
-National Metadata Directory is operated on the [e-infra infrastructure](https://www.e-infra.cz/en) by [CESNET z.s.p.o.](https://www.cesnet.cz/en) under the scope of [EOSC-CZ project](https://www.eosc.cz/en).
+National Metadata Directory is operated on the [e-infra infrastructure](https://www.e-infra.cz/en) by [CESNET z.s.p.o.](https://www.cesnet.cz/en) under the scope of [EOSC-CZ project](https://www.eosc.cz/en/projects/european-open-science-cloud-czech-republic-ips-eosc-cz). CESNET association delivers advanced ICT services for science, research, and education. It's members include public universities and the Academy of Sciences of the Czech Republic. As pioneers of the first academic networks CESNET ensures secure access and provides robust environments for data storage, high-performance computing, and team collaboration. 
 
 **Type of repository: National repository system.**
 
