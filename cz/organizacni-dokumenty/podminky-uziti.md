@@ -3,9 +3,7 @@
 
 - *Uveďte všeobecné právní ujednání týkající se používání webové aplikace repozitáře, včetně povinností a omezení uživatelů.*
 
-Podrobné informace o užití a licencích obsahu repozitáře:
-
-[Podmínky zpřístupňování obsahu](../statutarni-dokumenty/zpristupnovani-obsahu.md)
+Podrobné informace o užití a licencích obsahu repozitáře najdete v části [Podmínky zpřístupňování obsahu](../statutarni-dokumenty/zpristupnovani-obsahu.md).
 
 # Ochrana osobních údajů
 
@@ -14,4 +12,4 @@ Podrobné informace o užití a licencích obsahu repozitáře:
 
 ---
 
-Kam se obracet s dotazy nebo žádostmi najdete na stránce [Kontakty](kontakty.md)
+Kam se obracet s dotazy nebo žádostmi najdete na stránce [Kontakty](kontakty.md).
