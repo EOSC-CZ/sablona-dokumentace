@@ -2,18 +2,26 @@
 
 ## Repository mission statement
 
-- *State the basic objectives, context and status of the repository, its purpose and method of establishment.*
-- *Indicate the type of repository. Select all relevant types from:*
-  - *Domain or subject repository*
-  - *Institutional repository*
-  - *National repository system, including government repositories*
-  - *Publications repository*
-  - *Library/museum/archive*
-  - *Research project repository*
-  - *Other (please describe)*
+What is the National Metadata Directory? 
+
+A central point and search gateway for scientific datasets from Czech research. It contains information on research data from natural sciences and engineering as well as social sciences and humanities. In one place, you can search many scientific repositories of all disciplines here at once using basic metadata and navigate to the original disciplinary repository to access the dataset. The source repository may also offer searches by more detailed criteria or other specialised functionalities. In digital science, organising data into repositories is an important step towards higher quality research and international collaboration. For the most part, datasets are provided on an open access basis, but some may be restricted for reasons of rights protection, commercial interest or sensitive data. 
+
+What are datasets? 
+
+Scientific knowledge and published scientific texts are generally based on measured data or statistical data on which they base their claims. Datasets are those data sets that complement scientific publications and are used to prove or verify their results. Sometimes they are also data from scientific instruments and equipment or organized collections of digital objects that are provided to other research organizations for subsequent analysis and research or for applications in the public sphere. 
+
+The National Metadata Directory concentrates metadata on datasets mainly from the National Repository Platform repositories and selected international repositories with Czech participation. However, it does not contain records of scientific articles and scientific texts, which can be found in the document part of the National Repository. 
+
+---
+National Metadata Directory is operated on the [e-infra infrastructure](https://www.e-infra.cz/en) by [CESNET z.s.p.o.](https://www.cesnet.cz/en) under the scope of [EOSC-CZ project](https://www.eosc.cz/en).
+
+**Type of repository: National repository system.**
+
+**Scope of the repository: Czech Republic national and international with czech science participation**
+
 - *Specify a statement of the organization's mission and responsibility for making repository content available and preserved, and what explicit support it has in organizational documents (method of approval).*
 - *Describe the importance of the repository in terms of its content, role in projects, citations.*
-- *Describe the scope of the repository at national, regional, global level, involvement in international organisations.*
+
 
 For more detailed information on this topic, please refer to other related documents:
 
