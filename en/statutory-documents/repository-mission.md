@@ -1,5 +1,7 @@
 
-# Repository mission statement
+# Repository name
+
+## Repository mission statement
 
 - *State the basic objectives, context and status of the repository, its purpose and method of establishment.*
 - *Indicate the type of repository. Select all relevant types from:*
