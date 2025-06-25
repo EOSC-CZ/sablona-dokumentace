@@ -25,6 +25,8 @@
     
     The broader target group includes employees of private and state-owned enterprises, small and large companies, tradespeople, educators and the professional and general public, who are involved in working with open research data in industry, business, public sphere and access a wide range of educational and training materials.
 
+    This community comes with at least intermediate knowledge of the internet and how to navigate between websites and within website content.
+
 
 ---
 
