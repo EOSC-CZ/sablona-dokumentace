@@ -15,7 +15,7 @@ As National Metadata Directory aggregates records from other repositories and it
 
 **In record detail**, the dataset specific licence is displayed on the right with "More info" link to the licence text. 
 
-![Repository interface - record detail header](../images/record_detail_header.png "Repository iterface - record detail header")
+![Repository interface - record detail header](../images/record_detail_header.png "Repository interface - record detail header")
 
 Please make sure you always follow the dataset licence rules, i. e. the attribution requirements (CC BY clause), code of conduct of the source repository, ethical and privacy norms. Even Open Access licences have legally binding requirements and limitations (i. e. noncommercial or no-derivatives clauses).
 
