@@ -1,7 +1,7 @@
 
 # Providing access to content
 
-As National Metadata Directory aggregates records from other repositories and itself does not publish any datasets, the licences provided are presented from their source repositories. For the most part, datasets are provided on an open access basis, but some may be restricted for reasons of rights protection, commercial interest or protection of sensitive data. F.A.I.R principles further elaborates on the open access with „…as open as possible, as closed as necessary“. Access to record description (metadata) is always open, the access distinction are related to dataset files.
+As National Metadata Directory aggregates records from other repositories and itself does not publish any datasets, the licences provided are presented from their source repositories. For the most part, datasets are provided on an open access basis, but some may be restricted for reasons of rights protection, commercial interest or protection of sensitive data. Thus F.A.I.R principles further elaborate on the open access with „…as open as possible, as closed as necessary“. Access to record description (metadata) is always open, the access distinction is related only to dataset content files.
 
 In search results, access conditions are simplified by a lock icon:
 
