@@ -19,9 +19,6 @@ National Metadata Directory is operated on the [e-infra infrastructure](https://
 
 **Scope of the repository: Czech Republic national and international with czech science participation**
 
-- *Specify a statement of the organization's mission and responsibility for making repository content available and preserved, and what explicit support it has in organizational documents (method of approval).*
-- *Describe the importance of the repository in terms of its content, role in projects, citations.*
-
 
 For more detailed information on this topic, please refer to other related documents:
 
