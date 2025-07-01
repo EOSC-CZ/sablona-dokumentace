@@ -4,7 +4,7 @@
 
 What is the National Metadata Directory? 
 
-A central point and search gateway for scientific datasets from Czech research. It contains information on research data from natural sciences and engineering as well as social sciences and humanities. In one place, you can search many scientific repositories of all disciplines here at once using basic metadata and navigate to the original disciplinary repository to access the dataset. The source repository may also offer searches by more detailed criteria or other specialised functionalities. In digital science, organising data into repositories is an important step towards higher quality research and international collaboration. For the most part, datasets are provided on an open access basis, but some may be restricted for reasons of rights protection, commercial interest or sensitive data. 
+A central point and search gateway for scientific datasets from Czech research. It contains information on research data of all disciplines, from natural sciences and engineering as well as social sciences and humanities. In one place, you can search many scientific repositories here at once using basic metadata and navigate to the original discipline-specific repository to access the dataset. The source repository may also offer searches by more detailed criteria or other specialised functionalities. In digital science, organising data into repositories is an important step towards higher quality research and international collaboration. For the most part, datasets are provided on an open access basis, but some may be restricted for reasons of rights protection, commercial interest or protection of sensitive data. 
 
 What are datasets? 
 
