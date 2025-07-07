@@ -11,7 +11,7 @@ Daniel Mikšík (NRP, MUNI), Martin Dvořák (MUNI), Illyria Brejchová (DigiArt
 
 ## Metadata models
 
-For metadata standards, persistent identifiers, controlled vocabularies
+For metadata standards and transmission, persistent identifiers, controlled vocabularies
 
 Michal Med (EOSC), Petra Černohlávková (NTK), Michaela Capandová (EOSC)
 
