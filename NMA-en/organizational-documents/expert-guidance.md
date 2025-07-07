@@ -25,7 +25,11 @@ David Antoš (NRP, CESNET), Miroslav Šimek (NRP, CESNET)
 
 [EOSC CZ Working Groups](https://www.eosc.cz/en/working-groups) are an open platform where experts from academia and research come together to discuss and shape the architecture, technical standards and methodological approaches for working with research data. National Metadata Directory representatives participate in EOSC WG Metadata, EOSC WG Base services and others.
 
+## International bodies
 
+We work in cooperation with
+
+Invenio community, including teams from CERN, TU Wien, TU Graz, University of Münster, CALTECH Library, KTH Royal Institute of Technology. We participate on annual Invenio RDM parter meetings and contribute code to Invenio codebase.
 
 
 - *Indicate the range and depth of expertise of the organisation and its staff, including relevant information on affiliation with, for example, national or international bodies.*
