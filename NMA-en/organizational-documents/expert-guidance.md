@@ -1,11 +1,11 @@
 
 # Expert guidance
 
-
+Provider of National Metadata Directory, CESNET builds its expertise on 30 years of delivering cutting-edge information and communication services across the Czech Republic. As an association of top universities and the Czech Academy of Sciences manages a high-performance academic network that supports secure access to advanced computing, data storage, and communication tools for all members. [More on CESNET history and references](https://www.cesnet.cz/en/about-us). 
 
 ## Digital stewardship methodology
 
-For inquiries about general digital stewardship matters, digital curation National Metadata Directory administartors and other National Repository Platform repositories work together with methodology specialists
+For inquiries about general digital stewardship matters and digital curation, National Metadata Directory administartors and other National Repository Platform repositories work together with methodology specialists
 
 Daniel Mikšík (NRP, MUNI), Martin Dvořák (MUNI), Illyria Brejchová (DigiArts MUNI)
 
