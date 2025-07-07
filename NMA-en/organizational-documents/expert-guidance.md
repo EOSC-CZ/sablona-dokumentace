@@ -19,7 +19,7 @@ Michal Med (EOSC), Petra Černohlávková (NTK), Michaela Capandová (EOSC)
 
 In digital system architecture, data storage, repository software development
 
-David Antoš (CESNET), Miroslav Šimek (CESNET)
+David Antoš (NRP, CESNET), Miroslav Šimek (NRP, CESNET)
 
 ## Working groups
 
