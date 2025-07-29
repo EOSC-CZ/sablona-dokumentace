@@ -13,12 +13,12 @@ All metadata are machine harvested from source repositories. Procedures ensuring
 
 Persistent identifiers are assigned by source repositories, which can use different schemes. National Metadata Directory is PID scheme agnostic and can store and display records of any PID scheme, although currently present are two schemes: **DOI** and **Handle**. Persistent URLs are provided for every PID, linking to registered original record.
 
-**In record detail**, the dataset PID and scheme is displayed on the right pane labelled as "Dataset Identifiers", accompanied with the link to the original record: 
+In *record detail* view, the dataset PID and scheme is displayed on the right pane labelled as **Dataset Identifiers**, accompanied with the link to the original record: 
 
 ![Repository interface - record detail header](../images/record_detail_header.png "Repository interface - record detail header")
 
 # Where the records come from?
 
-For harvest source identification, please use **Export in JSON format** function on Record detail page and navigate to "oai" block, where the harvest URL ad date of record acquisition are displayed:
+For harvest source identification, please use **Export in JSON format** function on *record detail* view and navigate to "oai" block, where the harvest URL ad date of record acquisition are displayed:
    
 ![Export JSON - OAI source](../images/export_json_oai.png "Export JSON - OAI source")
