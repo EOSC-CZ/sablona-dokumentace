@@ -19,6 +19,6 @@ In *record detail* view, the dataset PID and scheme is displayed on the right pa
 
 # Where the records come from?
 
-For harvest source identification, please use **Export in JSON format** function on *record detail* view and navigate to "oai" block, where the harvest URL ad date of record acquisition are displayed:
+For harvest source identification, please use **Export in JSON format** function on *record detail* view and in downloaded file navigate to "oai" block, where the harvest URL ad date of record acquisition are displayed:
    
 ![Export JSON - OAI source](../images/export_json_oai.png "Export JSON - OAI source")
