@@ -7,13 +7,13 @@ National Metadata Directory is provided for activities in science, research, dev
 
 ## Use and licensing of the repository content:
 
-Read detailed information in [Providing access to content](../statutory-documents/providing-access.md)
+Read detailed information in [Providing access to content](../statutory-documents/providing-access.md).
 
 ## Privacy Policy
 
-The services is ČSN EN ISO/IEC 27001:2014 certified (standard for information security management) and operated under the governing law of the Czech Republic.
+The service is ČSN EN ISO/IEC 27001:2014 certified (Standard for information security management) and operated under the governing law of the Czech Republic.
 
-Personal Data Protection legal information is described corresponding part of [CESNET contact page](https://www.cesnet.cz/en/contacts)
+Personal Data Protection legal information is described corresponding part of [CESNET contact page](https://www.cesnet.cz/en/contacts).
 
 ---
 
