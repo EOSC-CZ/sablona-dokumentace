@@ -2,9 +2,9 @@
 
 Current data sources: National Metadata Directory currrently harvests from three data sources, each comprising datasets from multiple institutions.
 
-- National Repository Platform Catch-all Data Repository (all content in OAI endpoint)
+- National Repository Platform Catch-all Data Repository (all records in OAI endpoint)
 
-- LINDAT/CLARIN Repository (all content in OAI endpoint)
+- LINDAT/CLARIN Repository (all records in OAI endpoint)
 
 - Zenodo (selection of organizations and resource types covering datasets)
 
