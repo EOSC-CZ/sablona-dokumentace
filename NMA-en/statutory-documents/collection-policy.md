@@ -1,3 +1,9 @@
+# Collection policy
+
+National Metadata Directory aggregates metadata records of scientific datasets from Czech research. It contains information on research data of all disciplines, from natural sciences and engineering as well as social sciences and humanities. 
+
+Read more on general aim of metadata directory in [Repository Mission statement](./repository-mission.md).
+
 ## Overview of current data sources
 
 Current data sources: National Metadata Directory currrently harvests from three data sources, each comprising datasets from multiple institutions.
