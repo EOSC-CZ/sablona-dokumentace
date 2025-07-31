@@ -1,9 +1,9 @@
 
 # Providing access to content
 
-As National Metadata Directory aggregates published records from other repositories and itself does not publish any datasets, the licences provided are presented from their source repositories. For the most part, datasets are provided on an open access basis, but some may be restricted for reasons of rights protection, commercial interest or protection of sensitive data. In such cases making data accessible respects other concerns, therefore F.A.I.R. principles further elaborate on the Open Access with „…as open as possible, as closed as necessary“. 
+As National Metadata Directory aggregates published records from other repositories and itself does not publish any datasets, the licences here are presented from their source repositories. For the most part, datasets are provided on an open access basis, but some may be restricted for reasons of rights protection, commercial interest or protection of sensitive data. In such cases making data accessible respects other concerns, therefore F.A.I.R. principles further elaborate on the Open Access with „…as open as possible, as closed as necessary“. For access account in any of the source repositories, please refer to source repository contact information.
 
-*Note: Access to record description metadata is always open, the access distinction described here is related only to dataset content files. For any eventuality of unpublished metadata records, please refer to source repository.*
+*Note: Access to record description metadata for searching is always open, the access distinction described here is related only to dataset content files. For any eventuality of unpublished metadata records, please refer to source repository of your interest.*
 
 ## Web interface elements
 
@@ -13,8 +13,8 @@ In search results, access conditions are simplified by a lock icon:
 
 - ![Lock icon open](../images/icon_lock_embargo.png) Gray closed dotted lock signifies access is embargoed for certain time period, until it will be released under Open Access conditions.
 
-- ![Lock icon open](../images/icon_lock_closed.png) Red closed lock signifies access is provided under different conditions, licence or negotiation with intellectual rights holders is required. The researchers can also licence the data under open licence while restricting access to files for login to original repository (i.e. identification) or other requirements. 
-
+- ![Lock icon open](../images/icon_lock_closed.png) Red closed lock signifies access is provided under different conditions, licence or negotiation with intellectual rights holders is required. The researchers can also licence the data under open licence, while restricting access to files for login to original repository (i.e. identification) or other requirements.
+  
 **In record detail**, the dataset specific licence is displayed on the right with "More info" link to the licence text. 
 
 ![Repository interface - record detail header](../images/record_detail_header.png "Repository interface - record detail header")
