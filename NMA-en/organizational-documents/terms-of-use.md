@@ -5,11 +5,11 @@ National Metadata Directory is provided for activities in science, research, dev
 
 [Terms and conditions for the access to the CESNET e-infrastructure and Acceptable Use Policy](https://www.cesnet.cz/conditions/?lang=en)
 
-Detailed information on the use and licensing of the repository content:
+## Use and licensing of the repository content:
 
-[Providing access to content](../statutory-documents/providing-access.md)
+Read detailed information in [Providing access to content](../statutory-documents/providing-access.md)
 
-# Privacy Policy
+## Privacy Policy
 
 The services is ČSN EN ISO/IEC 27001:2014 certified (standard for information security management) and operated under the governing law of the Czech Republic.
 
