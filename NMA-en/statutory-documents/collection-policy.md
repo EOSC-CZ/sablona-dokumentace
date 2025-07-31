@@ -2,6 +2,8 @@
 
 National Metadata Directory aggregates metadata records of scientific datasets from Czech research. It contains information on research data of all disciplines, from natural sciences and engineering as well as social sciences and humanities. 
 
+The National Metadata Directory concentrates metadata on datasets mainly from the [National Repository Platform](https://docs.nrp.eosc.cz/en/docs/overview) repositories and selected international repositories with Czech participation. However, it does not contain records of scientific articles and scientific texts, which can be found in the document part of the National Repository. 
+
 Read more on general aim of metadata directory in [Repository Mission statement](./repository-mission.md).
 
 ## Overview of current data sources
