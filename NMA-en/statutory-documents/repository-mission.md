@@ -12,13 +12,16 @@ Scientific knowledge and published scientific texts are generally based on measu
 
 The National Metadata Directory concentrates metadata on datasets mainly from the [National Repository Platform](https://docs.nrp.eosc.cz/en/docs/overview) repositories and selected international repositories with Czech participation. However, it does not contain records of scientific articles and scientific texts, which can be found in the document part of the National Repository. 
 
----
+## Repository provider
+
 National Metadata Directory is operated on the [NRP infrastructure](https://docs.nrp.eosc.cz/) by [CESNET z.s.p.o.](https://www.cesnet.cz/en) under the scope of [EOSC-CZ project](https://www.eosc.cz/en/projects/european-open-science-cloud-czech-republic-ips-eosc-cz). CESNET association delivers advanced ICT services for science, research, and education. It's members include public universities and the Academy of Sciences of the Czech Republic. As pioneers of the first academic networks CESNET ensures secure access and provides robust environments for data storage, high-performance computing, and team collaboration. 
+
+
+## More information
 
 **Type of repository:** National repository system directory.
 
 **Scope of the repository:** Czech Republic national and international with czech science participation.
-
 
 For more detailed information on this topic, please refer to other related documents:
 
