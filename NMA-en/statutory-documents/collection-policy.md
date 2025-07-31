@@ -6,6 +6,43 @@ The National Metadata Directory concentrates metadata on datasets mainly from th
 
 Read more on general aim of metadata directory in [Repository Mission statement](./repository-mission.md).
 
+## Typology of datasets
+
+- cartographic material
+  - map
+- dataset
+  - aggregated data
+  - clinical trial data
+  - compiled data
+  - encoded data
+  - experimental data
+  - genomic data
+  - geospatial data
+  - laboratory notebook
+  - measurement and test data
+  - observational data
+  - recorded data
+  - simulation data
+  - survey data
+- design
+  - industrial design
+  - layout design
+- image
+  - moving image
+    - video
+  - still image
+- interactive resource
+  - website
+- knowledge organization system
+- learning object
+- software
+  - research software
+  - source code
+- sound
+  - musical composition
+- manuscript
+- musical notation
+
 ## Overview of current data sources
 
 Current data sources: National Metadata Directory currrently harvests from three data sources, each comprising datasets from multiple institutions.
