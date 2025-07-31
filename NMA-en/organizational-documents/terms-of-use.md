@@ -13,9 +13,8 @@ Detailed information on the use and licensing of the repository content:
 
 The services is ČSN EN ISO/IEC 27001:2014 certified (standard for information security management) and operated under the governing law of the Czech Republic.
 
-- *Specify a privacy policy describing how user data is collected, used, and protected.*
-- *Indicate the controller or contractual processor of the personal data.*
+Personal Data Protection legal information is described corresponding part of [CESNET contact page](https://www.cesnet.cz/en/contacts)
 
 ---
 
-Where to go with questions or requests can be found on the [Contacts](contacts.md) page.
+Where to go with questions or requests can be found on the [Repository Contacts](contacts.md) page.
