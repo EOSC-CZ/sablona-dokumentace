@@ -1,11 +1,13 @@
 
 # Providing access to content
 
-As National Metadata Directory aggregates records from other repositories and itself does not publish any datasets, the licences provided are presented from their source repositories. For the most part, datasets are provided on an open access basis, but some may be restricted for reasons of rights protection, commercial interest or protection of sensitive data. In such cases making data accessible respects other concerns, therefore F.A.I.R. principles further elaborate on the Open Access with „…as open as possible, as closed as necessary“. 
+As National Metadata Directory aggregates published records from other repositories and itself does not publish any datasets, the licences provided are presented from their source repositories. For the most part, datasets are provided on an open access basis, but some may be restricted for reasons of rights protection, commercial interest or protection of sensitive data. In such cases making data accessible respects other concerns, therefore F.A.I.R. principles further elaborate on the Open Access with „…as open as possible, as closed as necessary“. 
 
-*Note: Access to record description (metadata) is always open, the access distinction is related only to dataset content files.*
+*Note: Access to record description metadata is always open, the access distinction described here is related only to dataset content files. For any eventuality of unpublished metadata records, please refer to source repository.*
 
-**In search results**, access conditions are simplified by a lock icon:
+## Web interface elements
+
+In search results, access conditions are simplified by a lock icon:
 
 - ![Lock icon open](../images/icon_lock_open.png) Green open lock signifies access is provided under Open Access principles.
 
@@ -21,11 +23,11 @@ Please make sure you always follow the dataset licence rules, i. e. the attribut
 
 *Note: If the dissemination scope is not specified in the licence, the ways of dissemination allowed are the commonly known ways by the date of licence was granted. If unsure you can use support contacts of the original repository to ask if your intended use is covered by dataset licence or to ask for availability under different licence (i. e. commercial).*
 
-**Compliance**
+## Compliance
 
 National Metadata Directory does not provide or limit access to dataset content files and does not monitor compliance or appropriate use of licensed data. Please refer to dataset source repository for monitoring and compliance procedures by following "Link to original record". 
 
-**No licence**
+## No licence
 
 If no licence is shown with the record even on source repository page, while the dataset content files are accessible, it can be the case either the dataset nature does not constitute copyright claim or the copyright belongs to respective authors and is fully reserved, while content has been made accessible only for personal use. General research ethical norms are in place in all cases.
 
