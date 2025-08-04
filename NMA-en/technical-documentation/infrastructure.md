@@ -1,17 +1,20 @@
 
 # Technical infrastructure
 
-# Technology
+# Hardware
 
-The data centers of the National Repository Platform infrastructure, operated by CESNET are based on object storage utilizing Ceph and Kubernetes cluster technology stack. These data centers are located exclusively within the Czech Republic, meaning all your data remains within the country. The distributed model of these data centers enhances data redundancy through the use of geographical replicas. This approach ensures that your data is protected against media failures, natural disasters, or user errors.
+The data centers of the National Repository Platform infrastructure, operated by CESNET are located in several places within the Czech Republic, meaning all your data remains within the country. The distributed model of these data centers enhances data redundancy through the use of geographical replicas. This approach ensures that your data is protected against media failures, natural disasters, or user errors.
 
-Ceph is an open-source system designed to provide object storage that includes an object store, block store, and distributed file system. Data stored in Ceph is replicated across multiple nodes based on a defined replication policy. CESNET S3 service is a versatile solution suitable for a wide range of use cases, including basic data storage, automated backups, and various data handling applications.
+# Software
 
-Access to the service is managed through virtual organizations and corresponding groups. S3 is ideal for sharing data between individual users and groups, which may include members from different institutions. Tools for managing users and groups are provided by the e-infrastructure.
+On top of the open source software stack this repository uses [InvenioRDM](https://inveniordm.docs.cern.ch/features/), research data management platform from CERN, scalable to management of millions of records and petabytes of data. InvenioRDM is interoperable with REST APIs, harvestable via OAI-PMH according to the OpenAIRE guidelines and has a metadata model based on the DataCite Metadata Schema.
 
-For sensitive data, encrypted buckets can be used on the client side, ensuring that even the storage manager does not have access to the data. Client-side encryption also secures data transmission over the network, protecting it from being decrypted in case of eavesdropping.
+Storage and virtualisation of the software technology stack in use are based on object storage utilizing Ceph and Kubernetes. Ceph is an open-source system designed to provide object storage that includes an object store, block store, and distributed file system. Data stored in Ceph is replicated across multiple nodes based on a defined replication policy. For sensitive data, encrypted buckets can be used on the client side, ensuring that even the storage manager does not have access to the data. Client-side encryption also secures data transmission over the network, protecting it from being decrypted in case of eavesdropping.
 
-[Read more on data infrastructure in e-Infra documentation](https://docs.du.cesnet.cz/en/docs/introduction/introduction)
+Access to the services is managed through virtual organizations and corresponding groups, which may include members from different institutions. Tools for managing users and groups are provided by the [Autentication and authorization infrastructure (AAI)](https://docs.account.e-infra.cz/en/docs/access/perun).
+
+
+[Read more on data infrastructure in NRP documentation](https://docs.nrp.eosc.cz/)
 
 
 - *Describe how the repository operates on reliable and stable core infrastructures that maximizes service availability. Indicate hardware and software technologies appropriate to the services it provides to its Designated Community.*
