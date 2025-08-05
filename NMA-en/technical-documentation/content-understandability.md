@@ -11,4 +11,26 @@ DataCite metadata model is also supported for additional processing of metadata 
 
 Please refer to source repositories of the records in question for the FAIR-ification, data and metadata quality procedures in place or dataset formats explanation.
 
+# Where the records come from?
 
+For harvest source identification, please use **Export in JSON format** function on *record detail* view and in downloaded file navigate to "oai" block, where the harvest URL ad date of record acquisition are displayed:
+   
+![Export JSON - OAI source](../images/export_json_oai.png "Export JSON - OAI source")
+
+# Automated metadata discovery 
+
+Machine actionable requests can be made to NMA via REST API or OAI-PMH.
+
+Example API request to output all records in JSON:
+```
+curl  -d "Accept=application/json;charset=UTF-8" \
+      -X GET \
+      https://nma.eosc.cz/api/datasets/
+```
+
+for searching specific records you can use ```?q=``` parameter in API URL corresponding to the query used in NMA UI search box:
+```
+https://nma.eosc.cz/api/datasets/?q=
+```
+
+Working with result pagination and other request formatting is described in [InvenioRDM REST API documentation](https://inveniordm.docs.cern.ch/reference/rest_api_drafts_records/)
