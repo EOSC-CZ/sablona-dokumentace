@@ -27,7 +27,7 @@ Access to the services is managed through virtual organizations and correspondin
 
 Data storage and cluster services are certified compliant with information security management system standard ČSN EN ISO/IEC 27001:2014.
 
-Te key components of the software stack are actively developped and maintained with corresponding security bug reporting systems. CESNET is participating in development of the main repository system, InvenioRDM. Each major release of the Invenio RDM is tested to be production-grade ready. Repository is re-deployed twice a year witl all software components updated versions and fixes.
+Te key components of the software stack are actively developped and maintained with corresponding security bug reporting systems. CESNET is participating in development of the main repository system, InvenioRDM. Each major release of the Invenio RDM is tested to be production-grade ready. Repository is re-deployed twice a year with all software components updated versions and fixes.
 
 [Read more on security services in place on CESNET website](https://www.cesnet.cz/en/services/security-4)
 
