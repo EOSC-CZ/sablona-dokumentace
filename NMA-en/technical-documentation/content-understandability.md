@@ -28,7 +28,7 @@ curl  -d "Accept=application/json;charset=UTF-8" \
       https://nma.eosc.cz/api/datasets/
 ```
 
-for searching specific records you can use ```?q=``` parameter in API URL corresponding to the query used in NMA UI search box:
+For searching specific records you can use ```?q=``` parameter in API URL corresponding to the query used in NMA UI search box:
 ```
 https://nma.eosc.cz/api/datasets/?q=
 ```
