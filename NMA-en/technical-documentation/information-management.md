@@ -17,8 +17,8 @@ In *record detail* view, the dataset PID and scheme is displayed on the right pa
 
 ![Repository interface - record detail header](../images/record_detail_header.png "Repository interface - record detail header")
 
-# Where the records come from?
+# Machine readability
 
-For harvest source identification, please use **Export in JSON format** function on *record detail* view and in downloaded file navigate to "oai" block, where the harvest URL ad date of record acquisition are displayed:
-   
-![Export JSON - OAI source](../images/export_json_oai.png "Export JSON - OAI source")
+Please refer to [Content understandability](content-understandablity.md) for more information on technical details related to metadata and automated metadata discovery through NMA API or OAI-PMH.
+
+
