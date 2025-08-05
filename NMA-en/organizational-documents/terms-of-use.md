@@ -17,4 +17,4 @@ Personal Data Protection legal information is described corresponding part of [C
 
 ---
 
-Where to go with questions or requests can be found on the [Repository Contacts](contacts.md) page.
+Where to go with questions or requests can be found on the [Repository Contacts](management-and-contacts.md) page.
