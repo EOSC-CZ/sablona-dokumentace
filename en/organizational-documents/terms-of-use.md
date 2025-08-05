@@ -14,4 +14,4 @@ Detailed information on the use and licensing of the repository content:
 
 ---
 
-Where to go with questions or requests can be found on the [Contacts](contacts.md) page.
+Where to go with questions or requests can be found on the [Contacts](management-and-contacts.md) page.
