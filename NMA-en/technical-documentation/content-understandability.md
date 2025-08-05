@@ -33,4 +33,4 @@ for searching specific records you can use ```?q=``` parameter in API URL corres
 https://nma.eosc.cz/api/datasets/?q=
 ```
 
-Working with result pagination and other request formatting is described in [InvenioRDM REST API documentation](https://inveniordm.docs.cern.ch/reference/rest_api_drafts_records/)
+Working with result pagination and additional request formatting is described in [InvenioRDM REST API documentation](https://inveniordm.docs.cern.ch/reference/rest_api_drafts_records/).
