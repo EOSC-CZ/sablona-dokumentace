@@ -3,7 +3,7 @@
 
 # Quality of data and metadata
 
-National Metadata Drectory harvests metadata in Czech Core Metadata Model (CCMM) format. All harvested records are formally validated for conformation to requirements of CCMM model.
+National Metadata Directory harvests metadata in Czech Core Metadata Model (CCMM) format. All harvested records are formally validated for conformation to requirements of CCMM model.
 
 Specification and documentation of this metadata model is available through [CCMM repository](https://github.com/techlib/CCMM), managed by National Technical Library. For metadata questions or comments on compatibility crosswalks from different formats, persistent identifiers, controlled vocabularies etc. [EOSC-CZ Metadata Working Group](https://www.eosc.cz/en/working-groups/metadata) can be contacted.
 
