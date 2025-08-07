@@ -4,11 +4,12 @@ Here you find description of communities, which National Metadata Directory is i
 
 ## Broad public community
     
-The broader target group includes employees of private and state-owned enterprises, small and large companies, tradespeople, educators and the professional and general public, who are involved in working with open research data in industry, business, public sphere and access a wide range of educational and training materials.
-
-This community comes with at least intermediate knowledge of the internet and how to navigate between websites and within website content.
+> The broader target group includes employees of private and state-owned enterprises, small and large companies, tradespeople, educators and the professional and general public, who are involved in working with open research data in industry, business, public sphere and access a wide range of educational and training materials.
+>
+> This community comes with at least intermediate knowledge of the internet and how to navigate between websites and within website content.
 
 See [Guide for repository communities](for-communities.md) for general description of the organization of the data and how to navigate it.
+
 See [Providing access to content](../statutory-documents/providing-access.md) for explanation of access to datasets and licencing.
 
 ## Research community
@@ -19,10 +20,11 @@ Detailed knowledge of datasets, data formats and data interpretation in their re
 
 ## Professional staff
     
-This community consists of a staff of applied research, private and other departmental research organizations, and professional staff of museums and other libraries, whose involvement is expected to be more advanced as they are in data support positions, such as Data Stewards, Data Curators, IT specialists and repository managers, who are trained and provide consultancy support for effectively using the National Repository Platform infrastructure.
-
-Expert knowledge of dataset publishing and metadata description options over multiple fields, knowledge of open access and FAIR principles, data management plans and repository implementations is expected in this community.
+> This community consists of a staff of applied research, private and other departmental research organizations, and professional staff of museums and other libraries, whose involvement is expected to be more advanced as they are in data support positions, such as Data Stewards, Data Curators, IT specialists and repository managers, who are trained and provide consultancy support for effectively using the National Repository Platform infrastructure.
+>
+> Expert knowledge of dataset publishing and metadata description options over multiple fields, knowledge of open access and FAIR principles, data management plans and repository implementations is expected in this community.
 
 See [Requisities of depositors](../organizational-documents/requisities-of-depositors.md) for guidance how to depost your records.
+
 See [Collection policy](../statutory-documents/collection-policy.md) for description of the data sources and resource types collected.
 
