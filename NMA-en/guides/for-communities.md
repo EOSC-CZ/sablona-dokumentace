@@ -25,7 +25,7 @@ National Metadata Directory focuses on datasets as a form of research data and d
 
 ![Repository interface - record detail header](../images/record_detail_header.png "Repository interface - record detail header")
 
-See more on access icons in [Providing access](../statutoy-documents/providing-access.md).
+See more on access icons in [Providing access](../statutory-documents/providing-access.md).
 
 - *Describe how to easily find information and advanced search options with respect to the needs of the repository communities.*
 - *Describe how to cite repository records according to citation standards for scholarly publications.*
