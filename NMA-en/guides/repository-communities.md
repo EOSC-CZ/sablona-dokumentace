@@ -14,9 +14,11 @@ See [Providing access to content](../statutory-documents/providing-access.md) fo
 
 ## Research community
 
-Research and academic community of the Czech Republic, in particular the staff of universities and research institutes of the Czech Academy of Sciences who are involved in the processing and management of research data, including established researchers and information support staff of research teams with Open Science and FAIR data specialization in university and research libraries. This also includes postgraduate and partly undergraduate students, with their high demands on research data management, whose skills in research data management contributes to their international competitiveness.
+> Research and academic community of the Czech Republic, in particular the staff of universities and research institutes of the Czech Academy of Sciences who are involved in the processing and management of research data, including established researchers and information support staff of research teams with Open Science and FAIR data specialization in university and research libraries. This also includes postgraduate and partly undergraduate students, with their high demands on research data management, whose skills in research data management contributes to their international competitiveness.
+>
+> Detailed knowledge of datasets, data formats and data interpretation in their research field is expected in this community. Usually the members seek for publishing the datasets and search for their data in multiple related projects and in other researchers teams in their disciplinary field.
 
-Detailed knowledge of datasets, data formats and data interpretation in their research field is expected in this community. Usually the members seek for publishing the datasets and search for their data in multiple related projects and in other researchers teams in their disciplinary field.
+See [Collection policy](../statutory-documents/collection-policy.md) for description of the data sources and resource types collected.
 
 ## Professional staff
     
@@ -26,5 +28,4 @@ Detailed knowledge of datasets, data formats and data interpretation in their re
 
 See [Requisities of depositors](../organizational-documents/requisities-of-depositors.md) for guidance how to depost your records.
 
-See [Collection policy](../statutory-documents/collection-policy.md) for description of the data sources and resource types collected.
-
+See [Content understandability](../technical-documentation/content-understandability.md)  for information about metadata format and machine readability.
