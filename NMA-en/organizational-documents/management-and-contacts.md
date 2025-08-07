@@ -10,9 +10,8 @@ Administrator of the National Metadata Directory is ...
 
 # User and expertise support 
 
-For any questions, issues ad requests plese send an email to [support@narodni-repozitar.cz](mailto:support@narodni-repozitar.cz)
-- *Please provide a repository questions and requests contact (phone, contact email with request tracker system, etc.).*
-- *Provide contact for consultation and support from data stewards or data curators, repository expert board, etc.*
+For any questions, issues ad requests plese send an email to [support@narodni-repozitar.cz](mailto:support@narodni-repozitar.cz).
+This address uses request tracking system and according to the topic, the request will be transferred to experts in the field.
 
 
 ---
