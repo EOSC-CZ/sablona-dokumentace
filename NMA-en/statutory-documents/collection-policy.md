@@ -24,7 +24,7 @@ The datasets from Zenodo are selected from the datasets of VŠCHT, ČVUT, ZČU, 
 
 ## Typology of content
 
-The National Metadata Directory focuses on research datasets and additional research outcomes not considered as documents.
+The National Metadata Directory focuses on research datasets and additional research material, except articles and other document types.
 
 | datasets, software | other |
 |---|---|
