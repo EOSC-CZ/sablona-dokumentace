@@ -7,7 +7,7 @@ The broader target group includes employees of private and state-owned enterpris
 
 This community comes with at least intermediate knowledge of the internet and how to navigate between websites and within website content.
 
-See Guide for
+See [Guide for repository communities](for-communities.md) for general description of the organization of the data and how to navigate it
 
 ## Research community
 
