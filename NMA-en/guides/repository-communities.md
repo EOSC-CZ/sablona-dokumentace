@@ -1,5 +1,6 @@
 # Repository communities
 
+Here you find description of communities, which National Metadata Directory is intended for and what is provided for them:
 
 ## Broad public community
     
@@ -7,7 +8,7 @@ The broader target group includes employees of private and state-owned enterpris
 
 This community comes with at least intermediate knowledge of the internet and how to navigate between websites and within website content.
 
-See [Guide for repository communities](for-communities.md) for general description of the organization of the data and how to navigate it
+See [Guide for repository communities](for-communities.md) for general description of the organization of the data and how to navigate it.
 
 ## Research community
 
@@ -21,6 +22,6 @@ This community consists of a staff of applied research, private and other depart
 
 Expert knowledge of dataset publishing and metadata description options over multiple fields, knowledge of open access and FAIR principles, data management plans and repository implementations is expected in this community.
 
-See Requisities of depositors
+See [Requisities of depositors](../organizational-documents/requisities-of-depositors.md) for guidance how to depost your records.
 
 
