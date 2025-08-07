@@ -19,6 +19,6 @@ In *record detail* view, the dataset PID and scheme is displayed on the right pa
 
 # Machine readability
 
-Please refer to [Content understandability](content-understandablity.md) for more information on technical details related to metadata and automated metadata discovery through NMA API or OAI-PMH.
+Please refer to [Content understandability](content-understandability.md) for more information on technical details related to metadata and automated metadata discovery through NMA API or OAI-PMH.
 
 
