@@ -5,15 +5,15 @@
 
 National Metadata Drectory harvests metadata in Czech Core Metadata Model (CCMM) format. All harvested records are formally validated for conformation to requirements of CCMM model.
 
-Specification and documentation of this metadata model is available through [CCMM repository](https://github.com/techlib/CCMM), managed by National Technical Library. For metadata quections or comments on compatibility crosswalks from different formats, persistent identifiers, controlled vocabularies etc. [EOSC-CZ Metadata Working Group](https://www.eosc.cz/en/working-groups/metadata) can be contacted.
+Specification and documentation of this metadata model is available through [CCMM repository](https://github.com/techlib/CCMM), managed by National Technical Library. For metadata questions or comments on compatibility crosswalks from different formats, persistent identifiers, controlled vocabularies etc. [EOSC-CZ Metadata Working Group](https://www.eosc.cz/en/working-groups/metadata) can be contacted.
 
 DataCite metadata model is also supported for additional processing of metadata from outside of National Repository Platform.
 
-Please refer to source repositories of the records in question for the FAIR-ification, data and metadata quality procedures in place or dataset formats explanation.
+Please refer to source repositories of the records in question for the data and metadata quality procedures in place, F.A.I.R-ification, or dataset formats explanation.
 
-# Where the records come from?
+# Source identification
 
-For harvest source identification, please use **Export in JSON format** function on *record detail* view and in downloaded file navigate to "oai" block, where the harvest URL ad date of record acquisition are displayed:
+Where the records come from? For harvest source identification, please use **Export in JSON format** function on *record detail* view and in downloaded file navigate to "oai" block, where the harvest URL ad date of record acquisition are displayed:
    
 ![Export JSON - OAI source](../images/export_json_oai.png "Export JSON - OAI source")
 
