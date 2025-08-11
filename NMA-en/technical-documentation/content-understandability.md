@@ -19,7 +19,7 @@ Where the records come from? For harvest source identification, please use **Exp
 
 # Machine readability
 
-Machine actionable requests can be made to NMA via REST API or OAI-PMH.
+Machine actionable requests can be made to NMA via REST API or OAI-PMH interfaces.
 
 Example API request to output all records in JSON:
 ```
