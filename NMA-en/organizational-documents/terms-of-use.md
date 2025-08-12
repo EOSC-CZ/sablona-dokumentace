@@ -13,6 +13,8 @@ Read detailed information in [Providing access to content](../statutory-document
 
 The service is ČSN EN ISO/IEC 27001:2014 certified (Standard for information security management) and operated under the governing law of the Czech Republic.
 
+Processing of authentication data of AAI service is regulated under the higher responsibility mode of the cyber security law of the Czech Republic (transposed from the European Union) and the personal data are processed exclusively in Czech Republic.
+
 Personal Data Protection legal information is described corresponding part of [CESNET contact page](https://www.cesnet.cz/en/contacts).
 
 ---
