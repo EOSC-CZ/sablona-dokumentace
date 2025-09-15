@@ -7,7 +7,7 @@ This guide describes the practical implementation of data provider tasks. Genera
 
 ## Login account and identity verification
 
-- *Describe the login and identity verification procedure.*
+- *Describe obtaining account, identity verification procedure and login.*
 
 ## Inserting and editing records
 
