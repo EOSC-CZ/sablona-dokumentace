@@ -14,11 +14,11 @@ Current data sources: National Metadata Directory currrently harvests from three
 
 - LINDAT/CLARIN Repository (all records in OAI endpoint)
 
-- Zenodo (selection of organizations and resource types covering datasets)
+- Zenodo (as non-NRP repository only selection of organizations and resource types covering datasets)
 
 ### Institutions represented
 
-There are datasets from multiple institutions in each of the above data sources. The LINDAT Repository contains datasets mainly from UFAL and other organisations, directly submitted into LINDAT, i.e. primary records (Repository), not harvested by LINDAT from third party repositories (Catalog).
+There are datasets from multiple institutions in each of the above data sources. The LINDAT Repository contains datasets mainly from UFAL and other organisations, directly submitted as primary recors into LINDAT Repository, not harvested by LINDAT from third party repositories (LINDAT Catalog).
 
 The datasets from Zenodo are selected from the datasets of VŠCHT, ČVUT, ZČU, UPOL and UTB universities, based on different variants of the institution name. Currently, the exact affiliation of records to an institution is not accurate unless the record publisher is filled in correctly. Records are in English without mapping to any Czech equivalents.
 
@@ -29,3 +29,6 @@ The National Metadata Directory focuses on research datasets and additional rese
 | datasets, software | other |
 |---|---|
 |<code><ul><li>dataset</li><ul><li>aggregated data</li><li>clinical trial data</li><li>compiled data</li><li>encoded data</li><li>experimental data</li><li>genomic data</li><li>geospatial data</li><li>laboratory notebook</li><li>measurement and test data</li><li>observational data</li><li>recorded data</li><li>simulation data</li><li>survey data</li></ul><li>software</li><ul><li>research software</li><li>source code</li></ul></ul></code>|<code><ul><li>cartographic material</li><ul><li>map</li></ul><li>design</li><ul><li>industrial design</li><li>layout design</li></ul><li>image</li><ul><li>moving image</li><ul><li>video</li></ul><li>still image</li></ul><li>interactive resource</li><ul><li>website</li></ul><li>knowledge organization system</li><li>learning object</li><li>sound</li><ul><li>musical composition</li></ul><li>manuscript</li><li>musical notation</li></ul></code>|
+
+National Metadata Directory does not make any selection of records from harvested repositories based on record metadata. The only criteria to accept records from repository is repository statut as National Repository Platform dataset repository. Then, all records exposed by their published OAI interface are harvested.
+
