@@ -38,6 +38,6 @@ When harvesting from non-NRP repositories, selection of OAI published records ca
 
 ## File Format Registry
 
-Only metadata records are collected, thus no file format registry is provided by National Metadata Directory. For data files of records, links to the source repositories are displayed, where the files can be downloaded and file format intepretation consulted.
+Only metadata records are collected, thus no file format registry is maintained by National Metadata Directory. For data files of records, links to the source repositories are displayed, where the files can be downloaded and file format interpretation consulted.
 
 
