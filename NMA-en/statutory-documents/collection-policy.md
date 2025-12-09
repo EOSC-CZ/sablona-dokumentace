@@ -24,7 +24,7 @@ The datasets from Zenodo are selected from the datasets of VŠCHT, ČVUT, ZČU, 
 
 ## Typology of content
 
-The National Metadata Directory focuses on research datasets and additional research material, except articles and other document types.
+The National Metadata Directory focuses on research datasets and additional research material, except articles and other document types. The following is a selection from COAR resource types vocabulary applicable to metadata records:
 
 | datasets, software | other |
 |---|---|
@@ -32,7 +32,7 @@ The National Metadata Directory focuses on research datasets and additional rese
 
 ## Content selection criteria
 
-National Metadata Directory does not make any selection of records from harvested repositories based on record metadata. The only criteria to accept records from repository is repository statut as National Repository Platform dataset repository. Then, all records exposed by their published OAI interface are harvested.
+National Metadata Directory does not make any selection of records from harvested repositories based on record metadata. The only criteria to accept records from repository is repository statut as National Repository Platform data repository. Then, all records exposed by their published OAI interface are harvested.
 
 When harvesting from non-NRP repositories, selection of OAI published records can be made to match collection policy and mission statement.
 
