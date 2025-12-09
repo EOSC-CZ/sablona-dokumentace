@@ -2,7 +2,7 @@
 
 National Metadata Directory aggregates metadata records of scientific datasets from Czech research. It contains information on research data of all disciplines, from natural sciences and engineering as well as social sciences and humanities. 
 
-The National Metadata Directory concentrates metadata on datasets mainly from the [National Repository Platform](https://docs.nrp.eosc.cz/en/docs/overview) repositories and selected international repositories with Czech participation. However, it does not contain records of scientific articles and scientific texts, which can be found in the [National Repository for documents](https://docs.narodni-repozitar.cz). 
+The National Metadata Directory concentrates metadata on datasets mainly from the [National Repository Platform (NRP)](https://docs.nrp.eosc.cz/en/docs/overview) repositories and selected international repositories with Czech participation. However, it does not contain records of scientific articles and scientific texts, which can be found in the [National Repository for documents](https://docs.narodni-repozitar.cz). 
 
 Read more on general aim of metadata directory in [Repository Mission statement](./repository-mission.md).
 
@@ -34,7 +34,7 @@ The National Metadata Directory focuses on research datasets and additional rese
 
 National Metadata Directory does not make any selection of records from harvested repositories based on record metadata. The only criteria to accept records from repository is repository statut as National Repository Platform data repository. Then, all records exposed by their published OAI interface are harvested.
 
-When harvesting from non-NRP repositories, selection of OAI published records can be made to match collection policy and mission statement.
+When harvesting from other than NRP repositories, selection of OAI published records can be made to match collection policy and mission statement, in regard to Czech-affiliated science.
 
 ## File Format Registry
 
