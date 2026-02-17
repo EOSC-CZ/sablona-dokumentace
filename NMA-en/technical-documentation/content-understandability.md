@@ -30,7 +30,7 @@ curl  -d "Accept=application/json;charset=UTF-8" \
 
 For searching specific records you can use ```?q=``` parameter in API URL corresponding to the query used in NMA UI search box:
 ```
-https://nma.eosc.cz/api/datasets/?q=example
+https://nma.eosc.cz/api/datasets?q=example
 ```
 
 Working with result pagination and additional request formatting is described in [InvenioRDM REST API documentation](https://inveniordm.docs.cern.ch/reference/rest_api_drafts_records/).
