@@ -25,7 +25,7 @@ Example API request to output all records in JSON:
 ```
 curl  -d "Accept=application/json;charset=UTF-8" \
       -X GET \
-      https://nma.eosc.cz/api/datasets/
+      https://nma.eosc.cz/api/datasets
 ```
 
 For searching specific records you can use ```?q=``` parameter in API URL corresponding to the query used in NMA UI search box:
