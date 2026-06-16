@@ -24,6 +24,10 @@ There are datasets from multiple institutions in each of the above data sources.
 
 The datasets from Zenodo are selected from the datasets of VŠCHT, ČVUT, ZČU, UPOL and UTB universities, based on different variants of the institution name. Currently, the exact affiliation of records to an institution is not accurate unless the record publisher is filled in correctly. Records are in English without mapping to any Czech equivalents.
 
+### Harvest period and schedule
+
+All harvest sources are periodically re-harvested, updating the older records with newly acquired metadata, matching the records by the same identifier. Periodicity of each repository harverst depends on overall schedule and number of repository records and can range from one week to one month. Immediate priority of the source repository re-harvest, access to harvest resutlts dashboard or new repository to be added to harvest can be submitted by publishers by NMA support requests.
+
 ## Typology of content
 
 The National Metadata Directory focuses on research datasets and additional research material, except articles and other document types. The following is a selection from COAR resource types vocabulary applicable to metadata records:
