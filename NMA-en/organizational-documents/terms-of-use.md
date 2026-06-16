@@ -3,7 +3,7 @@
 
 National Metadata Directory is provided for activities in science, research, development, dissemination of education, culture and prosperity. The service is primarily intended for storing scientific metadata from eligible organizations, mainly academic institutions in the Czech Republic. 
 
-[Terms and conditions for the access to the CESNET e-infrastructure and Acceptable Use Policy](https://www.cesnet.cz/conditions/?lang=en)
+[Terms and conditions for the access to the CESNET e-infrastructure and Acceptable Use Policy](https://www.cesnet.cz/en/conditions)
 
 ## Use and licensing of the repository content:
 
