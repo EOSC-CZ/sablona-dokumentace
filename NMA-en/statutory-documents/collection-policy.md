@@ -38,7 +38,7 @@ For National Repository platform, National Metadata Directory does not make any 
 
 When harvesting from other than NRP repositories and generalist repositories, selection of OAI published records is made to match NMA collection policy and mission statement in regard to Czech-affiliated science and dataset resource types.
 
-In the case of a record appearing in multiple harvested repositories with the same persistent identifier, priority of the source repository can be designated by publisher upon NMA support request. The metadata from the newer harvest or priority source are then used to update the record. The harvested records provided with different persistent identifiers, though referencing the same original dataset, are not being merged or updated with metadata from record with different PID.
+In the case of a record appearing in multiple harvested repositories with the same persistent identifier, priority of the source repository can be designated by publisher upon NMA support request. The metadata from the newer harvest or priority source are then used to update the record. The harvested records provided with different persistent identifiers, though possibly referencing the same original dataset, are not being merged or updated with metadata from record with different PID.
 
 ## File Format Registry
 
