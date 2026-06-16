@@ -16,6 +16,8 @@ Current data sources: National Metadata Directory currrently harvests from three
 
 - Zenodo (as non-NRP repository only selection of organizations and resource types covering datasets)
 
+- Individual direct input for the purpose of reporting dataset in the national Register of Research Results
+
 ### Institutions represented
 
 There are datasets from multiple institutions in each of the above data sources. The LINDAT Repository contains datasets mainly from UFAL and other organisations, directly submitted as primary recors into LINDAT Repository, not harvested by LINDAT from third party repositories (LINDAT Catalog).
@@ -32,7 +34,7 @@ The National Metadata Directory focuses on research datasets and additional rese
 
 ## Content selection and record priority criteria
 
-For National Repository platform, National Metadata Directory does not make any selection of records from harvested repositories based on record metadata. The only criteria to accept records is source repository status as National Repository Platform data repository in National Repository Catalogue. Then, all records exposed by their published OAI interface are harvested and selection of recods for the harvest depends on the source repository curatorial decision. Czech affiliation is assumed for all the records as the repository is considered to be original publisher of the records.
+For National Repository platform, National Metadata Directory does not make any selection of records from harvested repositories based on record metadata. The only criteria to accept records is source repository status as National Repository Platform data repository in National Repository Catalogue. Then, all records exposed by their published OAI interface are harvested and selection of recods for the harvest depends on the source repository curatorial decision. Czech affiliation is assumed for all the records as the repository is considered to be original publisher of the records. The above applies accordingly also for individual direct input of records for reporting in Czech national Register of Research Results.
 
 When harvesting from other than NRP repositories and generalist repositories, selection of OAI published records is made to match NMA collection policy and mission statement in regard to Czech-affiliated science and dataset resource types.
 
