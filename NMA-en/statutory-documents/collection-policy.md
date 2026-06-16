@@ -30,11 +30,13 @@ The National Metadata Directory focuses on research datasets and additional rese
 |---|---|
 |<code><ul><li>dataset</li><ul><li>aggregated data</li><li>clinical trial data</li><li>compiled data</li><li>encoded data</li><li>experimental data</li><li>genomic data</li><li>geospatial data</li><li>laboratory notebook</li><li>measurement and test data</li><li>observational data</li><li>recorded data</li><li>simulation data</li><li>survey data</li></ul><li>software</li><ul><li>research software</li><li>source code</li></ul></ul></code>|<code><ul><li>cartographic material</li><ul><li>map</li></ul><li>design</li><ul><li>industrial design</li><li>layout design</li></ul><li>image</li><ul><li>moving image</li><ul><li>video</li></ul><li>still image</li></ul><li>interactive resource</li><ul><li>website</li></ul><li>knowledge organization system</li><li>learning object</li><li>sound</li><ul><li>musical composition</li></ul><li>manuscript</li><li>musical notation</li></ul></code>|
 
-## Content selection criteria
+## Content selection and record priority criteria
 
-National Metadata Directory does not make any selection of records from harvested repositories based on record metadata. The only criteria to accept records from repository is repository statut as National Repository Platform data repository. Then, all records exposed by their published OAI interface are harvested.
+For National Repository platform, National Metadata Directory does not make any selection of records from harvested repositories based on record metadata. The only criteria to accept records is source repository status as National Repository Platform data repository in National Repository Catalogue. Then, all records exposed by their published OAI interface are harvested and selection of recods for the harvest depends on the source repository curatorial decision. Czech affiliation is assumed for all the records as the repository is considered to be original publisher of the records.
 
-When harvesting from other than NRP repositories, selection of OAI published records can be made to match collection policy and mission statement, in regard to Czech-affiliated science.
+When harvesting from other than NRP repositories and generalist repositories, selection of OAI published records is made to match NMA collection policy and mission statement in regard to Czech-affiliated science and dataset resource types.
+
+In the case of a record appearing in multiple harvested repositories with the same persistent identifier, priority of the source repository can be designated by publisher upon NMA support request. The metadata from the newer harvest or priority source are then used to update the record. The harvested records provided with different persistent identifiers, though referencing the same original dataset, are not being merged or updated with metadata from record with different PID.
 
 ## File Format Registry
 
