@@ -26,7 +26,7 @@ The datasets from Zenodo are selected from the datasets of VŠCHT, ČVUT, ZČU, 
 
 ### Harvest period and schedule
 
-All harvest sources are periodically re-harvested, updating the older records with newly acquired metadata, matching the records by the same identifier. Periodicity of each repository harverst depends on overall schedule, number of records, source repository accepted requests rate and can range from one week to one month. Requests for immediate priority of the source repository re-harvest, for access to harvest resutlts dashboard or for adding a new repository to harvest can be submitted by publishers by NMA support.
+All harvest sources are periodically re-harvested, updating the older records with newly acquired metadata, matching the records by the same identifier. Periodicity of each repository harverst depends on overall schedule, number of records, source repository accepted workload rates and can range from one week to one month. Requests for immediate priority of the source repository re-harvest, for access to harvest resutlts dashboard or for adding a new repository to harvest can be submitted by publishers by NMA support.
 
 ## Typology of content
 
