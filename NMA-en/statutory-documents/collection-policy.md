@@ -1,10 +1,10 @@
-# Collection policy
+# NMD Collection policy
 
 National Metadata Directory aggregates metadata records of scientific datasets from Czech research. It contains information on research data of all disciplines, from natural sciences and engineering as well as social sciences and humanities. 
 
 The National Metadata Directory concentrates metadata on datasets mainly from the [National Repository Platform (NRP)](https://docs.nrp.eosc.cz/en/docs/overview) repositories and selected international repositories with Czech participation. However, it does not contain records of scientific articles and scientific texts, which can be found in the [National Repository for documents](https://docs.narodni-repozitar.cz). 
 
-Read more on general aim of metadata directory in [Repository Mission statement](./repository-mission.md).
+Read more on general aim of metadata directory in [NMD Mission statement](./repository-mission.md).
 
 ## Overview of current data sources
 
